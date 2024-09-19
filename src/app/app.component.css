@@ -1,0 +1,11 @@
+#layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+.footer{
+    text-align: center;
+    padding: 20px;
+}
